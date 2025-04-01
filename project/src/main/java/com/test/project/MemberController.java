@@ -1,4 +1,4 @@
-package com.test.porject;
+package com.test.project;
 
 public class MemberController {
 	
